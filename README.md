@@ -2,7 +2,7 @@
 
 I'm a Full Stack Java Developer
 
-## 📲 Connect With Me:
+## Connect With Me:
 
 <a href="https://linkedin.com/in/acar-akın"> 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn">
