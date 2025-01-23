@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋,I'm Acar Akın
 
+I'm a Full Stack Java Developer
 <!--
 **AcarAkin/AcarAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
